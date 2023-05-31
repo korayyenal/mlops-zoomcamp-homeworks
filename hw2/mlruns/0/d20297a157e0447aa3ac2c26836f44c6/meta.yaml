@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/korayyenal/mlops-zoomcamp-homeworks/hw2/mlruns/0/d20297a157e0447aa3ac2c26836f44c6/artifacts
+end_time: 1685220988452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d20297a157e0447aa3ac2c26836f44c6
+run_name: thundering-foal-817
+run_uuid: d20297a157e0447aa3ac2c26836f44c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685220982290
+status: 3
+tags: []
+user_id: korayyenal
